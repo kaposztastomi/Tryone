@@ -1,0 +1,48 @@
+cd - home directory
+ls -a mindent
+cd..
+cd /hova/
+mkdir
+touch 
+cp   -r
+
+rn   -r
+
+mv
+
+
+echo
+
+pwd
+
+
+GITHUB----
+
+git add
+git add -u
+git add -A
+
+git commit -m "message"
+
+local actions eddig
+
+git push 
+
+git checkout -b branchname
+
+git branch
+
+git checkout master
+
+
+R parancsok
+
+intsall.packages("slidify")
+
+
+
+
+
+
+
+
